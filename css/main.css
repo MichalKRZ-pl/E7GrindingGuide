@@ -1,1 +1,11 @@
-..
+/* css file for starting webpage */
+
+body{
+    background-color: #333333;
+    color: snow;
+}
+
+header{
+    font-size: 30px;
+    font-weight: bold;
+}
